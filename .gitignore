@@ -1,1 +1,21 @@
-/.history
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Env
+.env
+.env.*
+
+# Data
+*.csv
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+
+# IDE
+.history/
