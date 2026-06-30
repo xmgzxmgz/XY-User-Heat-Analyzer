@@ -1,3 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-2bbc8a.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Stars](https://img.shields.io/github/stars/xmgzxmgz/XY-User-Heat-Analyzer?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/xmgzxmgz/XY-User-Heat-Analyzer)
+
 # 闲鱼商品名录爬取与品类关注度分析（XY User Heat Analyzer）
 
 本项目实现：爬取闲鱼网页版商品信息（重点是商品名称），并通过中文分词与词频统计，输出用户关注度最高的品类关键词。
